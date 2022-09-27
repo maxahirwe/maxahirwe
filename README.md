@@ -1,7 +1,7 @@
 ### Max Ahirwe
 
 <div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEZ1Q0Jo2QHlg/profile-displayphoto-shrink_400_400/0/1653005142512?e=1669852800&v=beta&t=JddDD9AiewEBL8QXbpnyc8tRR7npIBdSRXGxUdaA_O0" align="center" style="width: 50px; height:50px" />
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEZ1Q0Jo2QHlg/profile-displayphoto-shrink_400_400/0/1653005142512?e=1669852800&v=beta&t=JddDD9AiewEBL8QXbpnyc8tRR7npIBdSRXGxUdaA_O0" align="center" style="width: 100px; height:100px" />
 </div>
 
 ### <div align="center"> Software Engineer/Software Architect</div>
@@ -124,4 +124,4 @@
 
 ---
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">2021 - 2022 Copyrights</div>
