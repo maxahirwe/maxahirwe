@@ -1,7 +1,7 @@
 ### Max Ahirwe
 
 <div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEZ1Q0Jo2QHlg/profile-displayphoto-shrink_400_400/0/1653005142512?e=1669852800&v=beta&t=JddDD9AiewEBL8QXbpnyc8tRR7npIBdSRXGxUdaA_O0" align="center" style="width: 100px; height:100px" />
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEZ1Q0Jo2QHlg/profile-displayphoto-shrink_400_400/0/1653005142512?e=1669852800&v=beta&t=JddDD9AiewEBL8QXbpnyc8tRR7npIBdSRXGxUdaA_O0" align="center" style="width: 100px; height:100px; border-radius: 0.50rem;" />
 </div>
 
 ### <div align="center"> Software Engineer/Software Architect</div>
