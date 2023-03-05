@@ -1,7 +1,7 @@
 ### Max Ahirwe
 
 <div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEZ1Q0Jo2QHlg/profile-displayphoto-shrink_800_800/0/1653005142512?e=1675900800&v=beta&t=MyvS342qolJM82_ImGmDi0BP9psBIv8DHjJ5nLOwlNc" align="center" style="width: 100px; height:100px; border-radius: 27px;" />
+<img src="https://i.ibb.co/w0rdLwK/new-pic-max.png" align="center" style="width: 100px; height:100px; border-radius: 27px;" />
 </div>
 
 ### <div align="center"> Software Engineer/Software Architect</div>
