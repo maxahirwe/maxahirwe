@@ -84,7 +84,7 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats-ruby-one.vercel.app/api?username=maxahirwe&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maxahirwe&show_icons=true&theme=transparent" align="center" /></div>
 
 <br/>
 
