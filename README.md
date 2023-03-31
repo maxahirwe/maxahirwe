@@ -63,6 +63,7 @@
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://www.jenkins.io/images/logos/automotive/256.png" alt="Jenkins" height="50" /></a>
 <a href="https://nginx.com" target="_blank"><img style="margin: 10px" src="https://www.nginx.com/resources/wiki/_static/img/nginx-plus-icon.png" alt="Nginx" height="50" /></a>
 <a href="https://pm2.keymetrics.io/" target="_blank"><img style="margin: 10px" src="https://pm2.keymetrics.io/assets/pm2-logo-1.png" alt="PM2" height="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://d0.awsstatic.com/logos/powered-by-aws.png" alt="AWS" height="50" /></a>
 </div>
 
 </td></tr></table>
