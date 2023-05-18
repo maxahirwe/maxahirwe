@@ -1,7 +1,7 @@
 ### Max Ahirwe
 
 <div align="center">
-<img src="https://i.ibb.co/w0rdLwK/new-pic-max.png" align="center" style="width: 100px; height:100px; border-radius: 27px;" />
+<img src="https://i.ibb.co/y4FT5Qk/img.jpg" align="center" style="width: 100px; height:100px; border-radius: 27px;" />
 </div>
 
 ### <div align="center"> Senior Software Engineer</div>
