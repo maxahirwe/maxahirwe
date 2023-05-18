@@ -6,7 +6,7 @@
 
 ### <div align="center"> Senior Software Engineer</div>
 
--   🔭 Website:[ https://max.rw](https://max.rw/)
+-   🔭 Website:[https://max.rw](https://max.rw/)
 
 -   ⚡ Fun fact: Currently Exploring AI Modeling
 
