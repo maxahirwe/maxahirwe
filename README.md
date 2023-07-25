@@ -84,7 +84,7 @@
 
 
 ## Github Stats
- ![Max's GitHub stats](https://vercel-maxahirwe.vercel.app/api?username=maxahirwe&show_icons=true&bg_color=00000000)
+<div align="center"> <img src="https://vercel-maxahirwe.vercel.app/api?username=maxahirwe&show_icons=true&bg_color=00000000" align="center"/></div>
 <br/>
 
 ## Reach Out
