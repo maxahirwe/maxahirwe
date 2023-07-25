@@ -84,7 +84,7 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maxahirwe&show_icons=true&theme=transparent" align="center" /></div>
+<div align="center"><img src="https://vercel-hazel-seven-74.vercel.app/api?username=maxahirwe&show_icons=true&theme=transparent" align="center" /></div>
 
 <br/>
 
