@@ -87,6 +87,10 @@
 <div align="center"> <img src="https://vercel-maxahirwe.vercel.app/api?username=maxahirwe&show_icons=true&bg_color=00000000" align="center"/></div>
 <br/>
 
+## Langs
+
+<div align="center"> <img src="https://vercel-maxahirwe.vercel.app/api/top-langs/?username=maxahirwe&langs_count=8" align="center"/> </div>
+
 ## Reach Out
 
 <br/>
