@@ -83,7 +83,7 @@
 <br/>
 
 ## Github Stats
-
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxahirwe&show_icons=true&bg_color=00000000)
 <div align="center"><img src="https://https://vercel-maxahirwe.vercel.app//api?username=maxahirwe&show_icons=true&theme=transparent" align="center" /></div>
 
 <br/>
