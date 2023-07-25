@@ -82,8 +82,10 @@
 
 <br/>
 
+
 ## Github Stats
-<div align="center">![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxahirwe&show_icons=true&bg_color=00000000)
+<div align="center">
+(https://github-readme-stats.vercel.app/api?username=maxahirwe&show_icons=true&bg_color=00000000)
 </div>
 
 <br/>
