@@ -88,7 +88,7 @@
 
 ## Langs
 
-<div align="center"> <img src="https://vercel-hazel-seven-74.vercel.app/api/top-langs/?username=maxahirwe" align="center"/> </div>
+<div align="center"> <img src="https://vercel-hazel-seven-74.vercel.app/api/top-langs/?username=maxahirwe&hide=CSS,HTML" align="center"/> </div>
 
 ## Reach Out
 
