@@ -83,12 +83,12 @@
 <br/>
 
 
-<div align="center"> <img src="https://vercel-hazel-seven-74.vercel.app/api?username=maxahirwe&show_icons=true&bg_color=00000000" align="center"/></div>
+<div align="center"> <img src="https://vercel-hazel-seven-74.vercel.app/api?username=maxahirwe&show_icons=true&bg_color=00000000&cache_seconds=24400" align="center"/></div>
 <br/>
 
 ## Langs
 
-<div align="center"> <img src="https://vercel-hazel-seven-74.vercel.app/api/top-langs/?username=maxahirwe&hide=CSS,HTML" align="center"/> </div>
+<div align="center"> <img src="https://vercel-hazel-seven-74.vercel.app/api/top-langs/?username=maxahirwe&hide=CSS,HTML&cache_seconds=24400" align="center"/> </div>
 
 ## Reach Out
 
