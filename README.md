@@ -3,8 +3,6 @@
 
 -   🔭 Website:[https://max.rw](https://max.rw/)
 
--   ⚡ Fun fact: Currently Exploring AI Modeling
-
 <br/>
 
 ## Skill Set
