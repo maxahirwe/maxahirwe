@@ -1,9 +1,4 @@
-### Max Ahirwe
-
-<div align="center">
-<img src="https://i.ibb.co/y4FT5Qk/img.jpg" align="center" style="width: 100px; height:100px; border-radius: 27px;" />
-</div>
-
+## Max Ahirwe
 ### <div align="center"> Senior Software Engineer</div>
 
 -   🔭 Website:[https://max.rw](https://max.rw/)
