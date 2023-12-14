@@ -7,10 +7,9 @@
 
 ## Skill Set
 
-<table><tr><td valign="top" width="33%">
-
-
-</td><td valign="top" width="33%">
+<table>
+  <tr>
+<td valign="top" width="33%">
 
 ### Backend
 
@@ -28,7 +27,9 @@
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+
+<td valign="top" width="33%">
 
 ### DevOps
 
@@ -43,7 +44,9 @@
 <a href="https://pm2.keymetrics.io/" target="_blank"><img style="margin: 10px" src="https://pm2.keymetrics.io/assets/pm2-logo-1.png" alt="PM2" height="50" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://a0.awsstatic.com/main/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" alt="AWS" height="50" /></a>
 </div>
+</td>
 
+<td valign="top" width="33%">
 ### Frontend
 
 <div align="center">  
@@ -57,8 +60,8 @@
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>  
 </div>
-
-</td></tr></table>
+</td>
+</tr></table>
 
 <br/>
 
