@@ -1,5 +1,4 @@
 ## Max Ahirwe
-### <div align="center"> Senior Software Engineer</div>
 
 [https://max.rw](https://max.rw/)
 
@@ -104,5 +103,3 @@
 <br />
 
 ---
-
-<div align="center">2024 - 2025 Copyrights</div>
