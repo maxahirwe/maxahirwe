@@ -1,13 +1,13 @@
 ## Max Ahirwe
 
 [https://max.rw](https://max.rw/)
-
+<!--
 <br/>
 
 ## Skill Set
 
 <table>
-<!--   <tr>
+   <tr>
 <td valign="top" width="33%">
 
 ### Backend
@@ -65,7 +65,7 @@
 </div>
 
 </td>
-</tr> -->
+</tr> 
 
 </table>
 
@@ -104,5 +104,5 @@
 
 <br/>
 <br />
-
+-->
 ---
