@@ -1,7 +1,7 @@
+<!--
 ## Max Ahirwe
 
 [https://max.rw](https://max.rw/)
-<!--
 <br/>
 
 ## Skill Set
